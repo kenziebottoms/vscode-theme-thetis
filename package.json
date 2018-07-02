@@ -1,23 +1,34 @@
 {
-    "name": "thetis",
-    "displayName": "Thetis",
-    "description": "a marine vscode color theme",
-    "version": "0.0.1",
-    "publisher": "kenziebottoms",
-    "engines": {
-        "vscode": "^1.24.0"
-    },
-	"icon": "icon.png",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Thetis",
-                "uiTheme": "vs-dark",
-                "path": "./themes/thetis.json"
-            }
-        ]
-    }
+  "name": "thetis",
+  "displayName": "Thetis",
+  "description": "a marine vscode color theme",
+  "version": "0.0.1",
+  "publisher": "kenziebottoms",
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thetis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thetis.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenziebottoms/vscode-theme-thetis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenziebottoms/vscode-theme-thetis/issues"
+  },
+  "homepage": "https://github.com/kenziebottoms/vscode-theme-thetis#readme"
 }
