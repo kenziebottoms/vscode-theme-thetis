@@ -11,12 +11,29 @@
 
 ## Previews
 
+- [Python](#python)
+- [Javascript](#javascript)
+- [Ruby](#ruby)
+- [CSS](#css)
+
 ### Python
 
-![Python](python.png)
+![Python](previews/python.png)
+
+### Javascript
+
+![Javascript](previews/js.png)
+
+### Ruby
+
+![Ruby](previews/ruby.png)
 
 ### CSS
 
-![CSS](css.png)
+![CSS](previews/css.png)
 
-> Sample code stolen from https://highlightjs.org/
+---
+
+> _Sample code stolen from https://highlightjs.org/_
+
+> _Palette screenshot stolen from https://coolors.co_
