@@ -2,7 +2,7 @@
   "name": "thetis",
   "displayName": "Thetis Theme",
   "description": "A marine color theme for VS Code",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "publisher": "kenziebottoms",
   "engines": {
     "vscode": "^1.24.0"
