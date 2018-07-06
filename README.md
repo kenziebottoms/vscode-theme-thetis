@@ -3,7 +3,7 @@
 ### Palette
 ![Palette](palette.png)
 
-- `#0A0435`
+- `#0A0435`/`#f3f7ff`
 - `#7284FF`
 - `#5BFFA5`
 - `#3DD8FF`
