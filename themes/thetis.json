@@ -1,4 +1,6 @@
 {
+	"name": "Thetis",
+	"type": "dark",
   "colors": {
     "foreground": "#f3f7ff",
     "errorForeground": "#ff2fb1",
