@@ -1,6 +1,6 @@
 {
-	"name": "Thetis",
-	"type": "dark",
+  "name": "Thetis",
+  "type": "dark",
   "colors": {
     "foreground": "#f3f7ff",
     "errorForeground": "#f293ff",
@@ -107,7 +107,7 @@
     "activityBar.dropBackground": "#f293ff",
     "activityBarBadge.background": "#3dd8ff",
     "activityBarBadge.foreground": "#0a0435",
-    "sideBar.background": "#0a0435",
+    "sideBar.background": "#130d3d",
     "sideBar.foreground": "#f3f7ff",
     "sideBar.border": "#0a0435",
     "sideBarTitle.foreground": "#f3f7ff",
@@ -140,7 +140,7 @@
     "terminal.ansiBrightCyan": "#f293ff",
     "terminal.ansiBrightWhite": "#f3f7ff",
     "gitDecoration.modifiedResourceForeground": "#f293ff",
-    "gitDecoration.untrackedResourceForeground": "#5bffa544",
+    "gitDecoration.untrackedResourceForeground": "#5bffa5",
     "gitDecoration.ignoredResourceForeground": "#7f7e9a",
     "gitDecoration.conflictingResourceForeground": "#f293ff"
   },
@@ -155,7 +155,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#7f7e9a"
+        "foreground": "#504d72"
       }
     },
     {
